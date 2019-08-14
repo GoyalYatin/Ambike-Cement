@@ -1,0 +1,21 @@
+@font-face
+{
+	font-family:metal mania;
+	src:url(fonts/MetalMania-regular.ttf);
+	font-family:georgia;
+	src:url(fonts/georgia.ttf);
+	font-family:georgiab;
+	src:url(fonts/georgiab.ttf);
+	font-family:georgiai;
+	src:url(fonts/georgiai.ttf);
+	font-family:times;
+	src:url(fonts/times.ttf);
+	font-family:timesb;
+	src:url(fonts/timesb.ttf);
+	font-family:timesi;
+	src:url(fonts/timesi.ttf);
+	font-family:stencil;
+	src:url(fonts/STENCIL.ttf);
+	font-family:forte;
+	src:url(fonts/FORTE.ttf);
+}

@@ -1,0 +1,113 @@
+#box{
+	font-family:georgia;
+	color:black;
+	width:1368px;
+	height:100%;
+
+}
+a:link,a:visited{
+	color:white;
+	text-decoration:none;
+}
+
+a:hover,a:active{
+	color:#700ff0;
+	
+	text-decoration:none;
+}
+
+body::-webkit-scrollbar {
+    width: 12px;
+	
+}
+ 
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+	background-color:white;
+}
+ 
+body::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+	background-color:#016dff;
+}
+body::-moz-scrollbar {
+    width: 12px;
+	
+}
+ 
+body::-moz-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+	background-color:white;
+}
+ 
+body::-moz-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+	background-color:#016dff;
+}
+body::-o-scrollbar {
+    width: 12px;
+	
+}
+ 
+body::-o-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+	background-color:white;
+}
+body::-o-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+	background-color:#016dff;
+}
+
+#overflow::-webkit-scrollbar {
+    width: 12px;
+	
+}
+ 
+#overflow::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+	background-color:white;
+}
+ 
+#overflow::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+	background-color:#016dff;
+}
+#overflow::-moz-scrollbar {
+    width: 12px;
+	
+}
+ 
+#overflow::-moz-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+	background-color:white;
+}
+ 
+#overflow::-moz-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+	background-color:#016dff;
+}
+#overflow::-o-scrollbar {
+    width: 12px;
+	
+}
+ 
+#overflow::-o-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+	background-color:white;
+}
+#overflow::-o-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+	background-color:#016dff;
+}
